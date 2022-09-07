@@ -1,1 +1,1 @@
-current working directory
+Create a script that creates a directory
