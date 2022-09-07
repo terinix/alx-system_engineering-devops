@@ -1,1 +1,2 @@
-#!/binbas quote> pwd
+#!/bin/bash
+pwd
